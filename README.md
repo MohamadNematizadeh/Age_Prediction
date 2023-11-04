@@ -9,8 +9,8 @@
 
 - | Dataset |  Loss	     | 
     | :---   |   :---:   | 
-    |Train   |  9.2271   | 
-    |Val     |  8.7625   |
+    |Train   |  6.8638   | 
+    |Val     |  8.6216   |
   
 Result of model on my own picture:
     |  |  output  | 
