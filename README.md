@@ -1,4 +1,3 @@
-# 7.5.CNN Regression
 # Age Prediction
 - Automatic estimation of human age based on the appearance of human face 👶🏻👵🏻,
 - Using ResNet50V2 neural network
@@ -12,3 +11,10 @@
     | :---   |   :---:   | 
     |Train   |  9.2271   | 
     |Val     |  8.7625   |
+  
+Result of model on my own picture:
+| ![output](https://github.com/MohamadNematizadeh/Age-Prediction/blob/main/imag%20data/2023-11-04.png?raw=true) |  ![output](https://github.com/MohamadNematizadeh/Age-Prediction/blob/main/imag%20data/2023-11-04%20(1).png?raw=true)    | 
+    | :---   |   :---:   | 
+
+
+
