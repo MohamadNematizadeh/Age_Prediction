@@ -13,12 +13,7 @@
     |Val     |  8.6216   |
   
 Result of model on my own picture:
-    |  |  output  | 
-    | ![output](https://github.com/MohamadNematizadeh/Age-Prediction/blob/main/imag%20data/2023-11-04.png?raw=true)  |  
-    ![output](https://github.com/MohamadNematizadeh/Age-Prediction/blob/main/imag%20data/2023-11-04%20(1).png?raw=true)    | 
 
-
-     
-
-
-
+- | output |  	     | 
+    | :---   |   :---:   | 
+    |![output](https://github.com/MohamadNematizadeh/Age-Prediction/blob/main/imag%20data/2023-11-04.png?raw=true)   |  ![output](https://github.com/MohamadNematizadeh/Age-Prediction/blob/main/imag%20data/2023-11-04%20(1).png?raw=true)  | 
